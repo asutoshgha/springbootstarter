@@ -49,7 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>demofuck</finalName>
+		<finalName>demo</finalName>
 	</build>
 
 </project>
