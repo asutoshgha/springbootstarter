@@ -8,6 +8,6 @@ public class DemoController {
 
     @RequestMapping("/")
     String Hello(){
-        return "<h1>Hello from springboo!!</h1>";
+        return "<h1>Hello from springboot!!</h1>";
     }
 }
